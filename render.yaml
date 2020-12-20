@@ -5,4 +5,4 @@ services:
     disk:
       name: data
       mountPath: /data/db
-      sizeGB: 1
+      sizeGB: 5
